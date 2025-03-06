@@ -67,4 +67,4 @@ redirect_from:
 - If you're embarrassed, you can contact my students.
 
 - In addition, for undergraduate/graduate students who have the idea of further study, please come and chat with me, maybe it will bring you some help.
-![SUES](/images/SUES.png)
+![SUES](/images/editing-talk.png)
