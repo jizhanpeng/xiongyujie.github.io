@@ -18,7 +18,6 @@ redirect_from:
 <div style="text-align: justify;">📖He has presided over more than 10 scientific research projects such as National Natural Science Foundation Youth Project, Shanghai Science and Technology Commission Project, Shanghai Education Commission plan project, and enterprise commissioned project, and participated in science and technology Innovation 2030 - "New generation Artificial Intelligence" major project, National Natural Science Foundation project, Shanghai Science and Technology Commission Science and technology project and other scientific research projects. He has published more than 30 academic papers and served as a member of several international conference program committees.</div>
 
 # Academic Service
-
 ## Journal Reviewer
 
 - IEEE Transactions on Information Forensics and Security
@@ -68,3 +67,4 @@ redirect_from:
 - If you're embarrassed, you can contact my students.
 
 - In addition, for undergraduate/graduate students who have the idea of further study, please come and chat with me, maybe it will bring you some help.
+![SUES](/images/SUES.png)
