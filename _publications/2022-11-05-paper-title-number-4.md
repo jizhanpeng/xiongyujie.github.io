@@ -2,7 +2,7 @@
 title: "基于Transformer与Vector Loss模块的椎骨Cobb角点定位网络"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-10-paper-title-number-4
+permalink: /publication/2022-11-05-paper-title-number-4
 excerpt: 'This paper proposes a lightweight medical image segmentation model named UConvNeXt based on depth - wise separable convolution and MLP. By using large - scale kernel depth - wise separable convolution and the local feature weighted fusion MLP (LFWF - MLP) module, experiments are carried out on multiple medical image datasets. The results show that while reducing parameters and computational complexity, the model can achieve comparable or even better segmentation performance than high - parameter models. Additionally, the limitations of the model and its future improvement directions are analyzed.'
 date: 2024-10-10
 venue: 'Medical Image Processing'
