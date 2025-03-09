@@ -1,5 +1,5 @@
 ---
-title: "基于Transformer与Vector Loss模块的椎骨Cobb角点定位网络"
+title: "Transformer"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-01-15-paper-title-number-3
@@ -8,7 +8,7 @@ date: 2022-01-15
 venue: 'Medical Image Processing'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/基于Transformer与VectorLoss模块的椎骨Cobb角点定位网络.pdf'
-citation: '基于Transformer与Vector Loss模块的椎骨Cobb角点定位网络, 陈瑶，高永彬*，熊玉洁, 《中国医学物理学杂志》，2022，39 (11): 1393-1400'
+citation: ''
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
