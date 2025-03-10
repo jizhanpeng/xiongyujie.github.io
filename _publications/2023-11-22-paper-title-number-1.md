@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-11-22-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper creates the CODP-1200 dataset for child language acquisition, proposes the DDMXCap method, validates their effectiveness through experiments, and discusses future research directions.</div>'
-date: 2025-01-08
-venue: 'arxiv'
+date: 2023-11-22
+venue: 'Displays'
 paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/CODP-1200_An_AIGC_based_benchmark_for_assisting_in_child_language_acquisition.pdf'
 citation: '<br/><div style="text-align: justify;">CODP-1200: An AIGC based benchmark for assisting in child language acquisition, G. Leng, G. Zhang, Y.-J. Xiong* and J. Chen, Displays, 2023, 82: 102627</div>'
 ---
