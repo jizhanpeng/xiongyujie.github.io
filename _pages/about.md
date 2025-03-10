@@ -8,15 +8,10 @@ redirect_from:
 ---
 
 **[School of Electronic and Electrical Engineering](https://seee.sues.edu.cn/)**
-
 **[Shanghai University of Engineering Science](https://www.sues.edu.cn/)**
 
-
-
 **Address**:Room 7832/7911, Modern Transportation Engineering Center, No. 333 Longteng Road, Songjiang District, Shanghai
-
 **Contact number**: +86-021-37660073
-
 **Email**: xiong@sues.edu.cn
 
 
