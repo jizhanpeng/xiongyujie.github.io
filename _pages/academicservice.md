@@ -2,9 +2,6 @@
 permalink: /
 title: "Academic Service"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 **[School of Electronic and Electrical Engineering](https://seee.sues.edu.cn/)**
