@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Academic Service"
 author_profile: true
 redirect_from: 
   - /about/
