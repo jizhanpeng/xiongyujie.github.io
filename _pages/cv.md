@@ -35,7 +35,7 @@ redirect_from:
 - Journal of Circuits, Systems, and Computers
 - IEEE Open Journal of Signal Processing
 
-#### Member of the Technical Procedures Committee
+### Member of the Technical Procedures Committee
 
 - The International Conference on Parallel and Distributed Systems (ICPADS), 2023.
 - The International Conference on Ubiquitous Intelligence and Computing (UIC), 2022.
