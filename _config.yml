@@ -28,7 +28,7 @@ author:
   bio              : "Doctor, Associate Professor/Master tutor"
   location         : "Shanghai,China"
   employer         : "SUES"
-  uri              : # URL
+  uri              : "xiongyujie.cn"
   email            : "xiong@sues.edu.cn" 
 
   # Academic websites
@@ -86,7 +86,7 @@ publication_category:
 
 # Site Settings
 teaser                   : "test.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
