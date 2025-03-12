@@ -28,12 +28,12 @@ author:
   bio              : "Doctor, Associate Professor/Master tutor"
   location         : "Shanghai,China"
   employer         : "SUES"
-  uri              : "xiongyujie.cn"
+  uri              : #
   email            : "xiong@sues.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : 
+  googlescholar    : 
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
