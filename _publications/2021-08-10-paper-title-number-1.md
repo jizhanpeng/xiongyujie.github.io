@@ -3,7 +3,7 @@ title: "A cross entropy based approach to minimum propagation latency for contro
 collection: publications
 category: manuscripts
 permalink: /publication/2021-08-10-paper-title-number-1
-excerpt: '<div style="text-align: justify;"></div>'
+excerpt: '<div style="text-align: justify;">The paper formulates SDN's CPP as an integer programming problem, proposes a cross - entropy approach to solve it, and validates its effectiveness via experiments.</div>'
 date: 2021-08-10
 venue: 'Computer Communications'
 paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/A_cross_entropy_based_approach_to_minimum_propagation_latency_for_controller_placement_in_Software_Defined_Network.pdf'
