@@ -3,7 +3,7 @@ title: "结合数据扩增与残差收缩网络的地震短临预测"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-10-25-paper-title-number-1
-excerpt: '<div style="text-align: justify;">The paper uses DCGAN and a deep residual shrinkage network for short - term earthquake prediction in China's central and western regions, with 5 - day prediction accuracy of 73.86%.</div>'
+excerpt: '<div style="text-align: justify;">Paper uses DCGAN and a network for short - term quake prediction in China's central & western regions, with 5 - day accuracy of 73.86%.</div>'
 date: 2021-10-25
 venue: '地震'
 paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/结合数据扩增与残差收缩网络的地震短临预测_张翔.pdf'
