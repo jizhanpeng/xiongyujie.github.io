@@ -3,7 +3,7 @@ title: "A Density-based Controller Placement Algorithm for Software Defined Netw
 collection: publications
 category: conferences
 permalink: /publication/2022-08-22-paper-title-number-1
-excerpt: '<div style="text-align: justify;">The paper presents an improved DCPA for SDN's CPP. It calculates controller numbers, uses multiple indicators and K - means, and experiments show it gets low - cost solutions close to the optimal.</div>'
+excerpt: '<div style="text-align: justify;">The paper presents an improved DCPA for CPP. It calculates controller numbers, uses multiple indicators and K - means, and experiments show it gets low - cost solutions close to the optimal.</div>'
 date: 2022-08-22
 venue: 'International Conference on Cyber'
 paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/A_Density-based_Controller_Placement_Algorithm.pdf'
