@@ -6,7 +6,7 @@ permalink: /publication/2021-03-14-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper empirically examines the effects of text factors on Chinese writer identification with text - independent features. It concludes that more characters boost performance, 50 is the minimum number needed, and the number of same characters has little impact above 50.</div>'
 date: 2021-03-14
 venue: 'Digital TV and Wireless Multimedia Communication'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/An_Empirical_Study_of_Text_Factors_and_Their_Effects_on_Chinese_Writer_Identification.pdf'
+paperurl: 'http://xiongyujie.cn/files/An_Empirical_Study_of_Text_Factors_and_Their_Effects_on_Chinese_Writer_Identification.pdf'
 citation: '<br/><div style="text-align: justify;">An Empirical Study of Text Factors and Their Effects on Chinese Writer Identification, Y.-J. Xiong*, Y. Lu and Y.-C. Cao, Digital TV and Wireless Multimedia Communication, (2021) pp. 194-205</div>'
 ---
 
