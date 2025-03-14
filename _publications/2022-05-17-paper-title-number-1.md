@@ -6,7 +6,7 @@ permalink: /publication/2022-05-17-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents a knowledge - distilled pre - training model for VLN. It shrinks model size and inference time, keeps 95% of the original performance, and outperforms baselines.</div>'
 date: 2022-05-17
 venue: 'Applied Intelligence'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Knowledge_distilled_pre-training_model_for_vision-language-navigation.pdf'
+paperurl: 'http://xiongyujie.cn/files/Knowledge_distilled_pre-training_model_for_vision-language-navigation.pdf'
 citation: '<br/><div style="text-align: justify;">Knowledge distilled pre-training model for vision-language-navigation, B. Huang*, S. Zhang, J.-T. Huang, Y.-J. Yu, Z.-C. Shi and Y.-J. Xiong, Applied Intelligence, 2022, 53 (1): 5607–5619</div>'
 ---
 
