@@ -6,7 +6,7 @@ permalink: /publication/2024-01-19-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper presents a frame - level contrastive learning framework with a Text Perceiver for lightweight scene text recognition models, improving performance, especially in low - quality scenarios, with effectiveness verified by experiments.</div>'
 date: 2024-01-19
 venue: 'ACM International Conference on Multimedia'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Free_Lunch_Frame-level_Contrastive_Learning_with_Text_Perceiver_for_Robust_Scene_Text_Recognition_in_Lightweight_Models.pdf'
+paperurl: 'http://xiongyujie.cn/files/Free_Lunch_Frame-level_Contrastive_Learning_with_Text_Perceiver_for_Robust_Scene_Text_Recognition_in_Lightweight_Models.pdf'
 citation: '<br/><div style="text-align: justify;">Free Lunch: Frame-level Contrastive Learning with Text Perceiver for Robust Scene Text Recognition in Lightweight Models, H.-J. Zhan, Y.-F. Li*, Y.-J. Xiong, Umapada Pal, Y. Lu, Proceedings of the 32nd ACM International Conference on Multimedia, 2024</div>'
 ---
 
