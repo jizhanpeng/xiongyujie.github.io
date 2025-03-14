@@ -6,7 +6,7 @@ permalink: /publication/2023-01-18-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper “License Plate Detection Using Siamese Feature Pyramid and Cascaded Positioning” presents an algorithm with a Siamese feature pyramid and cascaded positioning. It performs better than traditional methods on relevant datasets.</div>'
 date: 2023-01-18
 venue: '计算机工程与应用'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/结合双金字塔特征融合与级联定位的车牌检测.pdf'
+paperurl: 'http://xiongyujie.cn/files/结合双金字塔特征融合与级联定位的车牌检测.pdf'
 citation: '<br/><div style="text-align: justify;">结合双金字塔特征融合与级联定位的车牌检测, 张俊青，熊玉洁*，孙宪坤，高永彬, 《计算机工程与应用》，2023，59 (2): 240-252</div>'
 ---
 
