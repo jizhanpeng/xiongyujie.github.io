@@ -6,7 +6,7 @@ permalink: /publication/2023-10-04-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper presents an MDR - GCN relation extraction model using multiple dependency tree representations and a GSF Extractor module, achieving good results on multiple datasets and analyzing relevant factors.</div>'
 date: 2023-10-04
 venue: 'IET Cyber-Physical Systems: Theory & Applications'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Multiple_dependence_representation_of_attention_graph_convolutional_network_relation_extraction_model.pdf'
+paperurl: 'http://xiongyujie.cn/files/Multiple_dependence_representation_of_attention_graph_convolutional_network_relation_extraction_model.pdf'
 citation: '<br/><div style="text-align: justify;">Multiple dependence representation of attention graph convolutional network relation extraction model, L.-F. Zhao, Y.-J. Xiong*, Y.-B. Gao and W.-J. Yu, IET Cyber-Physical Systems: Theory & Applications, online (2023)</div>'
 ---
 
