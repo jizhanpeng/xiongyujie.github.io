@@ -6,7 +6,7 @@ permalink: /publication/2023-12-28-paper-title-number-1
 excerpt: '<div style="text-align: justify;">A two - stage framework for few - shot NER is proposed. It uses multiscale convolution and an improved prototypical network, and outperforms baselines in experiments.</div>'
 date: 2023-12-28
 venue: 'Wuhan University Journal of Natural Sciences'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Few-Shot_Named_Entity_Recognition_with_the_Integration_of_Spatial_Features.pdf'
+paperurl: 'http://xiongyujie.cn/files/Few-Shot_Named_Entity_Recognition_with_the_Integration_of_Spatial_Features.pdf'
 citation: '<br/><div style="text-align: justify;">Few-Shot Named Entity Recognition with the Integration of Spatial Features, Z.-W. Liu, B. Huang*, C.-M. Xia, Y.-J. Xiong, Z.-S. Zhang, Y.-Q. Zhang, Wuhan University Journal of Natural Sciences, 2024,29.2: 125-133</div>'
 ---
 
