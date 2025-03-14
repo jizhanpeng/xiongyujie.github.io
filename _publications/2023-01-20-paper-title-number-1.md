@@ -6,7 +6,7 @@ permalink: /publication/2023-01-20-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper “Attention-based multiple siamese networks with primary representation guiding for offline signature verification” presents a method with siamese networks and special modules. It outperforms others on multiple datasets in offline signature verification.</div>'
 date: 2023-01-20
 venue: 'International Journal on Document Analysis and Recognition'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Attention-based_multiple_siamese_networks_with_primary_representation_guiding_for_offline_signature_verification.pdf'
+paperurl: 'http://xiongyujie.cn/files/Attention-based_multiple_siamese_networks_with_primary_representation_guiding_for_offline_signature_verification.pdf'
 citation: '<br/><div style="text-align: justify;">Attention-based multiple siamese networks with primary representation guiding for offline signature verification, Y.-J. Xiong*, S.-Y. Cheng, J.-X. Ren and Y.-J. Zhang, International Journal on Document Analysis and Recognition, online (2023)</div>'
 ---
 
