@@ -6,7 +6,7 @@ permalink: /publication/2020-10-09-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents two CNN - based methods, one using CTPN for handwriting detection and the other using Mask - RCNN for hand - sketched graphics detection, and validates their effectiveness on the SUES - 1000 database.</div>'
 date: 2020-10-09
 venue: 'International Conference on Pattern Recognition and Artificial Intelligence'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Handwriting_and_Hand-Sketched_Graphics_Detection_Using_Convolutional_Neural_Networks.pdf'
+paperurl: 'http://xiongyujie.cn/files/Handwriting_and_Hand-Sketched_Graphics_Detection_Using_Convolutional_Neural_Networks.pdf'
 citation: '<br/><div style="text-align: justify;">Handwriting and Hand-Sketched Graphics Detection Using Convolutional Neural Networks, S.-Y. Cheng, Y.-J. Xiong*, J.-Q. Zhang and Y.-C. Cao, in Proceedings of the International Conference on Pattern Recognition and Artificial Intelligence, (2020) pp. 352-362</div>'
 ---
 
