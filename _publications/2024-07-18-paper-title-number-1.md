@@ -6,7 +6,7 @@ permalink: /publication/2024-07-18-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes the REMALIS framework for multi - agent coordination with LLMs. It uses intention propagation, bidirectional feedback, and recursive reasoning, outperforming baselines.</div>'
 date: 2024-07-18
 venue: 'arXiv'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Towards_Collaborative_Intelligence_Propagating_Intentions_and_Reasoning_for_Multi-Agent_Coordination_with_Large_Language_Models.pdf'
+paperurl: 'http://xiongyujie.cn/files/Towards_Collaborative_Intelligence_Propagating_Intentions_and_Reasoning_for_Multi-Agent_Coordination_with_Large_Language_Models.pdf'
 citation: '<br/><div style="text-align: justify;">Towards Collaborative Intelligence: Propagating Intentions and Reasoning for Multi-Agent Coordination with Large Language Models, X.-H. Qiu*, H.-Y. Wang, X.-Y. Tan, C. Qu, Y.-J. Xiong, Y. Chen, Y.-H. Xu, W. Chu, Y. Qi, arxiv preprint, arxiv:2407.12532 (2024)</div>'
 ---
 
