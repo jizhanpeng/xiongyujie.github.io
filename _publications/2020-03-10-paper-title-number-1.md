@@ -3,10 +3,10 @@ title: "A Lightweight Improved U-Net with Shallow Features Combination and Its A
 collection: publications
 category: manuscripts
 permalink: /publication/2020-03-10-paper-title-number-1
-excerpt: '<div style="text-align: justify;">A lightweight IU - Net with shallow features combination is proposed, reducing U - Net's drawbacks, and is applied to detect small metal product defects, outperforming other methods.</div>'
+excerpt: '<div style="text-align: justify;">A lightweight IU - Net with shallow features combination is proposed, reducing drawbacks, and is applied to detect small metal product defects, outperforming other methods.</div>'
 date: 2020-03-10
 venue: 'Wuhan University Journal of Natural Sciences'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/A_Lightweight_Improved_U-Net_with_Shallow_Features_Combination_and_Its_Application_to_Defect_Detection.pdf'
+paperurl: 'http://xiongyujie.cn/files/A_Lightweight_Improved_U-Net_with_Shallow_Features_Combination_and_Its_Application_to_Defect_Detection.pdf'
 citation: '<br/><div style="text-align: justify;">A Lightweight Improved U-Net with Shallow Features Combination and Its Application to Defect Detection H. Wu, X.-K. Sun*, Y.-J. Xiong, Wuhan University Journal of Natural Sciences, 2020, 25 (5): 461-468</div>'
 ---
 
