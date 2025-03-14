@@ -6,7 +6,7 @@ permalink: /publication/2022-08-15-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes an attention - guided dual feature pyramid network - based license plate detection method for complex environments, validates it on datasets, and proves its superiority.</div>'
 date: 2022-08-15
 venue: 'Electronics'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/License_Plate_Detection_with_Attention-Guided_Dual_Feature_Pyramid_Networks_in_Complex_Environments.pdf'
+paperurl: 'http://xiongyujie.cn/files/License_Plate_Detection_with_Attention-Guided_Dual_Feature_Pyramid_Networks_in_Complex_Environments.pdf'
 citation: '<br/><div style="text-align: justify;">License Plate Detection with Attention-Guided Dual Feature Pyramid Networks in Complex Environments, Y.-J. Xiong*, Y.-B. Gao*, J.-Q. Zhang and J.-X. Ren, Electronics, 2022, 11 (23): 3895</div>'
 ---
 
