@@ -6,7 +6,7 @@ permalink: /publication/2017-10-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">A method using CDF and CPSM for Chinese writer identification fuses two similarities. It outperforms previous methods with high Top - 1 accuracy on two datasets.</div>'
 date: 2017-10-12
 venue: 'International Conference on Document Analysis and Recognition'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Chinese_Writer_Identification_Using_Contour-Directional_Feature_and_Character_Pair_Similarity_Measurement.pdf'
+paperurl: 'http://xiongyujie.cn/files/Chinese_Writer_Identification_Using_Contour-Directional_Feature_and_Character_Pair_Similarity_Measurement.pdf'
 citation: '<br/><div style="text-align: justify;">Chinese Writer Identification Using Contour-Directional Feature and Character Pair Similarity Measurement, Y.-J. Xiong and Y. Lu*, in Proceedings of the International Conference on Document Analysis and Recognition, (2017) pp. 119–124</div>'
 ---
 
