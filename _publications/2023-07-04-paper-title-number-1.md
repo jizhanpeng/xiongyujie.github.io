@@ -6,7 +6,7 @@ permalink: /publication/2023-07-04-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes a method using multiple Riemannian manifold - valued descriptors and audio - visual information for video clustering, including single - and multi - modality approaches, and shows its superiority over existing methods through experiments.</div>'
 date: 2024-07-04
 venue: 'Expert Systems With Applications'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Enhanced_video_clustering_using_multiple_riemannian_manifold-valued_descriptors_and_audio-visual_information.pdf'
+paperurl: 'http://xiongyujie.cn/files/Enhanced_video_clustering_using_multiple_riemannian_manifold-valued_descriptors_and_audio-visual_information.pdf'
 citation: '<br/><div style="text-align: justify;">Enhanced video clustering using multiple riemannian manifold-valued descriptors and audio-visual information, W. Hu, H. Zhan*, Y. Tian, Y.-J. Xiong and Y. Lu, Expert Systems with Applications, 2024, 246: 123099</div>'
 ---
 
