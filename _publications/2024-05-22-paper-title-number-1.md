@@ -6,7 +6,7 @@ permalink: /publication/2024-05-22-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes a text classification model with GATs and adversarial training, performs well in experiments, and discusses its limitations and future directions.</div>'
 date: 2024-05-22
 venue: 'Applied Sciences'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Text_Classification_Model_Based_on_Graph_Attention_Networks_and_Adversarial_Training.pdf'
+paperurl: 'http://xiongyujie.cn/files/Text_Classification_Model_Based_on_Graph_Attention_Networks_and_Adversarial_Training.pdf'
 citation: '<br/><div style="text-align: justify;">Text Classification Model Based on Graph Attention Networks and Adversarial Training, J. Li, Y. Jian* and Y.-J. Xiong, Applied Sciences, 2024, 14(11): 4906</div>'
 ---
 
