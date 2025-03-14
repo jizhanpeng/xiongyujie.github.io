@@ -6,7 +6,7 @@ permalink: /publication/2023-10-21-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper “Deep Frame-Point Sequence Consistent Network for Handwriting Trajectory Recovery” presents a two - stream framework for handwriting trajectory recovery. It uses a module to synchronize training and shows good results in experiments.</div>'
 date: 2023-10-21
 venue: 'International Conference on Parallel and Distributed Systems'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Deep_Frame-Point_Sequence_Consistent_Network_for_Handwriting_Trajectory_Recovery.pdf'
+paperurl: 'http://xiongyujie.cn/files/Deep_Frame-Point_Sequence_Consistent_Network_for_Handwriting_Trajectory_Recovery.pdf'
 citation: '<br/><div style="text-align: justify;">Deep Frame-Point Sequence Consistent Network for Handwriting Trajectory Recovery, Y.-J. Xiong, Y.-F. Dai and D. Meng*, in Proceedings of the International Conference on Parallel and Distributed Systems, accepted (2023)</div>'
 ---
 
