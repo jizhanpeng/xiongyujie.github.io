@@ -6,7 +6,7 @@ permalink: /publication/2025-03-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes PointABM, which combines Bidirectional Mamba and Transformer, and it shows improved performance in point cloud analysis with a small increase in parameters.</div>'
 date: 2025-03-12
 venue: 'International Conference on Intelligent Technology and Embedded Systems'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/PointABM_Integrating_Bidirectional_Mamba_and_Multi-Head_Self-Attention_for_Point_Cloud_Analysis.pdf'
+paperurl: 'http://xiongyujie.cn/files/PointABM_Integrating_Bidirectional_Mamba_and_Multi-Head_Self-Attention_for_Point_Cloud_Analysis.pdf'
 citation: '<br/><div style="text-align: justify;">PointABM: Integrating Bidirectional Mamba and Multi-Head Self-Attention for Point Cloud Analysis, J.-W. Chen, Y.-J. Xiong*, D.-H. Zhu, J.-C. Zhang, Z. Zhou, 2024 4th International Conference on Intelligent Technology and Embedded Systems (ICITES). IEEE, 2024</div>'
 ---
 
