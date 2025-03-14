@@ -6,7 +6,7 @@ permalink: /publication/2022-10-04-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents a SET for offline signature verification, using a modified Swin - Transformer and SE module, and it outperforms existing methods on multiple datasets.</div>'
 date: 2022-10-04
 venue: 'International Conference on Ubiquitous Intelligence and Computing'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/SET_a_squeeze-and-excitation_transformer_for_offline_signature_verification.pdf'
+paperurl: 'http://xiongyujie.cn/files/SET_a_squeeze-and-excitation_transformer_for_offline_signature_verification.pdf'
 citation: '<br/><div style="text-align: justify;">SET: A squeeze-and-excitation transformer for offline signature verification, J.-X. Ren, J. Chen* and Y.-J. Xiong*,in Proceedings of the International Conference on Ubiquitous Intelligence and Computing, (2022) pp. 1812-1816</div>'
 ---
 
