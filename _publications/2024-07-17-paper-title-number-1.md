@@ -6,7 +6,7 @@ permalink: /publication/2024-07-17-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes a Transformer - based end - to - end method with triplet deep attention to attack text CAPTCHAs, achieving high accuracy on Roman and Chinese captcha datasets and exploring its performance under various conditions.</div>'
 date: 2024-07-17
 venue: 'Computers & Security'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Transformer-based_end-to-end_attack_on_text_CAPTCHAs_with_triplet_deep_attention.pdf'
+paperurl: 'http://xiongyujie.cn/files/Transformer-based_end-to-end_attack_on_text_CAPTCHAs_with_triplet_deep_attention.pdf'
 citation: '<br/><div style="text-align: justify;">Transformer-based end-to-end attack on text CAPTCHAs with triplet deep attention, B. Zhang, Y.-J. Xiong*, C.-M. Xia and Y.-B. Gao, Computers & Security, 2024, 146: 104058</div>'
 ---
 
