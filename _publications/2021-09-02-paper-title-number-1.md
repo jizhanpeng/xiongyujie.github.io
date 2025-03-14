@@ -6,7 +6,7 @@ permalink: /publication/2021-09-02-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents an attention - based Multiple Siamese Network for offline signature verification. It uses attention modules and contrastive pairs, and shows better performance than previous methods on multiple datasets.</div>'
 date: 2021-09-02
 venue: 'International Conference on Document Analysis and Recognition'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Attention_Based_Multiple_Siamese_Network_for_Offline_Signature_Verification.pdf'
+paperurl: 'http://xiongyujie.cn/files/Attention_Based_Multiple_Siamese_Network_for_Offline_Signature_Verification.pdf'
 citation: '<br/><div style="text-align: justify;">Attention Based Multiple Siamese Network for Offline Signature Verification, Y.-J. Xiong* and S.-Y. Cheng, in Proceedings of the International Conference on Document Analysis and Recognition, (2021) pp. 337-349</div>'
 ---
 
