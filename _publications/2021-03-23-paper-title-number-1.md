@@ -6,7 +6,7 @@ permalink: /publication/2021-03-24-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper proposes a method combining inverted feature pyramid and U - Net for hyperspectral image classification. It uses PCA for preprocessing, and experiments show high accuracy and analyze related factors.</div>'
 date: 2021-03-23
 venue: '中国图象图形学报'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/结合倒置特征金字塔和U-Net的高光谱图像分类_程嵩阳.pdf'
+paperurl: 'http://xiongyujie.cn/files/结合倒置特征金字塔和U-Net的高光谱图像分类_程嵩阳.pdf'
 citation: '<br/><div style="text-align: justify;">结合倒置特征金字塔和U-Net的高光谱图像分类, 程嵩阳，熊玉洁*，姚瑶，李庆利, 《中国图象图形学报》，2021，26 (8): 1994-2008</div>'
 ---
 
