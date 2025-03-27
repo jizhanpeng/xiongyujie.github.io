@@ -26,7 +26,7 @@ author:
   name             : "Xiong Yujie"
   pronouns         : # "her"  
   bio              : "Doctor, Associate Professor/Master tutor"
-  location         : "Shanghai,China"
+  location         : "Shanghai China"
   employer         : "SUES"
   uri              : #
   email            : "xiong@sues.edu.cn" 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/X-Lab-CN"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
